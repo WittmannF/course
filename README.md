@@ -1,2 +1,2 @@
-# Deep Learning TensorFlow in 7 Days
-Course material for the course Deep Learning TensorFlow in 7 Days by Packt
+# Deep Learning with Keras and TensorFlow
+Course material for the course Deep Learning with Keras and TensorFlow
